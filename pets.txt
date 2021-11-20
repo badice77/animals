@@ -7,3 +7,5 @@ Kitten.
 Mouse.
 Parrot.
 Puppy.
+diamond
+wargas
