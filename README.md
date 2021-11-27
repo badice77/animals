@@ -27,7 +27,7 @@ foobar.singularize('phenomena')
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
+et moi aussi
 Please make sure to update tests as appropriate.
 
 ## License
